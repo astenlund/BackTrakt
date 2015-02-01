@@ -7,7 +7,7 @@
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Backup your Trakt.tv data.</summary>'
+    <summary lang="en">Backup your trakt.tv data.</summary>'
     <description lang="en"></description>
     <language></language>
     <platform>all</platform>
